@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/editora-maujortec/build/static/css/main.e22d90dd.css",
+    "main.js": "/editora-maujortec/build/static/js/main.12d8581c.js",
+    "index.html": "/editora-maujortec/build/index.html",
+    "main.e22d90dd.css.map": "/editora-maujortec/build/static/css/main.e22d90dd.css.map",
+    "main.12d8581c.js.map": "/editora-maujortec/build/static/js/main.12d8581c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22d90dd.css",
+    "static/js/main.12d8581c.js"
+  ]
+}
